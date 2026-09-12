@@ -27,27 +27,9 @@ VirusTotal API Key
 AbuseIPDB API Key
 
 Getting API Keys
+VirusTotalhttps://www.virustotal.com/gui/join-us500 requests / day
+AbuseIPDBhttps://www.abuseipdb.com/register1000 requests / day
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ServiceLinkFree Tier LimitVirusTotalhttps://www.virustotal.com/gui/join-us500 requests / dayAbuseIPDBhttps://www.abuseipdb.com/register1000 requests / day
 Configuration
 Copy the example environment file and add your keys:
 Bashcp .env.example .env
